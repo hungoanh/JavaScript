@@ -1,2 +1,3 @@
-# UI
-Front End Web Development 
+# JavaScript
+
+Just JavaScript & TypeScript
